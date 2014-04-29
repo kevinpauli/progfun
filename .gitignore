@@ -218,5 +218,5 @@ pip-log.txt
 ## IntelliJ idea
 #################
 .idea
-example/lib_managed/
+lib_managed/
 target/
